@@ -1,0 +1,28 @@
+[{
+"name":"diego",
+"email":"kahuaski@gmail.com",
+"password":"123456",
+"role":"arreglo"
+
+
+}
+,
+{
+
+    "name":	"wayra",
+    "email":"wayra@gmail.com",
+    "password":"123456",
+    "role":"employee"
+    
+    },
+    {
+
+        "name":	"Abel",
+        "email":"abel@gmail.com",
+        "password":"123456",
+        "role":"employee"
+        
+        }
+        
+    
+]
