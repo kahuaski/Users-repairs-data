@@ -18,4 +18,4 @@ app.use((req, res, next) => {
 app.use('/app/v1/users', usersRouters);
 app.use('/app/v1/repairs', repairsRouters);
 
-module.exports = app;
+module.exports = app
